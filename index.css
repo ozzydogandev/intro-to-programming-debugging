@@ -13,3 +13,11 @@ main {
 #reset {
   margin: 20px;
 }
+img{
+  position: fixed;
+  top: 10px; 
+  width: 500px; 
+  height: auto; 
+  pointer-events: none;
+  display: none;
+}
